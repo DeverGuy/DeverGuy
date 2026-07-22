@@ -66,6 +66,14 @@ You can also customize the colors, tools, and text to match your specific skills
   <!-- Custom Neon Cyberpunk Theme for Streaks -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeverGuy&background=0d1117&fire=f05032&ring=00ffff&currStreakNum=00ffff&currStreakLabel=00ffff&sideNums=f05032&sideLabels=f05032&dates=a9a9a9&hide_border=true" width="98%" />
 </div>
+<h4 align="center">🐾 My Code Pet (Eevee)</h4>
+<div align="center">
+  <p>Eevee evolves as my contribution streak grows!</p>
+  <!-- PET-START -->
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="60" alt="Eevee">
+  <!-- PET-END -->
+</div>
+
 
 <h4 align="center">🐍 My Contribution Snake</h4>
 
