@@ -53,16 +53,25 @@ You can also customize the colors, tools, and text to match your specific skills
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Streaks
 
 <div align="center">
-  <!-- GitHub Stats using a community-hosted instance since the main one is often rate-limited -->
   <img src="https://github-readme-stats.shion.dev/api?username=DeverGuy&show_icons=true&theme=radium&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeverGuy&theme=radium&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DeverGuy&layout=compact&theme=radium&hide_border=true" width="48%" />
 </div>
 
+<h4 align="center">🔥 My Contribution Streak</h4>
+
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DeverGuy&layout=compact&theme=radium&hide_border=true" width="98%" />
+  <!-- Custom Neon Cyberpunk Theme for Streaks -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeverGuy&background=0d1117&fire=f05032&ring=00ffff&currStreakNum=00ffff&currStreakLabel=00ffff&sideNums=f05032&sideLabels=f05032&dates=a9a9a9&hide_border=true" width="98%" />
+</div>
+
+<h4 align="center">📈 Activity Graph</h4>
+
+<div align="center">
+  <!-- Dynamic Activity Line Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeverGuy&bg_color=0D1117&color=00ffff&line=f05032&point=ffffff&area=true&hide_border=true" width="98%" />
 </div>
 
 ---
